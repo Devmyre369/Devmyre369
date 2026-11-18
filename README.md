@@ -5,7 +5,7 @@
 ### B.Tech CSE Student • AI & Cybersecurity Builder • Open Source Learner
 
 <p>
-  <a href="https://github.com/DevKumar57-67">
+  <a href="https://github.com/Devmyre369">
     <img src="https://img.shields.io/badge/GitHub-DevKumar57--67-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Cybersecurity%20%7C%20Open%20Source-0A66C2?style=for-the-badge" />
